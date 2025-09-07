@@ -58,6 +58,11 @@ A full-stack web application for restaurant ordering similar to Domino's online 
 - **Responsive Design** - Mobile-friendly
 
 ## 🚀 Installation & Setup
+![Home Page](https://github.com/Srinu363/food-delivery-app/blob/main/food_delivery/images/Screenshot%202025-09-07%20094523.png)
+![Our Menu](https://github.com/Srinu363/food-delivery-app/blob/main/food_delivery/images/Screenshot%202025-09-07%20094617.png)
+![List Of Items](https://github.com/Srinu363/food-delivery-app/blob/main/food_delivery/images/Screenshot%202025-09-07%20094642.png)
+![Login].(https://github.com/Srinu363/food-delivery-app/blob/main/food_delivery/images/Screenshot%202025-09-07%20094716.png)
+
 
 ### Prerequisites
 - Python 3.8 or higher
