@@ -309,6 +309,6 @@ If you encounter any issues:
 
 ---
 
-**Built with ❤️ for food lovers and Django developers!**
+**Built with ❤️ in Indian and food lovers**
 
 *Ready to serve delicious food online! 🍕*
